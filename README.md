@@ -1,7 +1,3 @@
-Here is a sample `README.md` file for a "Credit Card Fraud Detection" project using machine learning with an accuracy of 91%.
-
----
-
 # Credit Card Fraud Detection using Machine Learning
 
 This project aims to detect fraudulent credit card transactions using machine learning techniques. The model was trained on an imbalanced dataset of credit card transactions, and it achieved an accuracy of 91%. The goal is to build a robust model that can help financial institutions reduce losses due to fraudulent activities.
